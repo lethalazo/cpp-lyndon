@@ -1,2 +1,2 @@
 # cpp-lyndon
-A not so efficient lyndon word identifier implemented in C++
+A lyndon word identifier implemented in C++
